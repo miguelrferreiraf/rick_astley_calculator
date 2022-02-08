@@ -4,4 +4,4 @@
 
 ![gif](https://github.com/MiguelRFerreiraF/rick_astley_calculator/blob/main/rickastley.gif)
 
-The site is [here](https://miguelrferreiraf.github.io/rick_astley_calculator/)
+### The site is [here](https://miguelrferreiraf.github.io/rick_astley_calculator/)
